@@ -1,3 +1,7 @@
+## 🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/ST3hgcdBRn4/maxresdefault.jpg)](https://youtu.be/ST3hgcdBRn4)
+
 # AvatarController
 
 A modern Web Component for displaying animated 3D avatars (GLB format) with interactive animation controls, built with [Lit](https://lit.dev/) and [Three.js](https://threejs.org/).
